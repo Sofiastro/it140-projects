@@ -1,67 +1,23 @@
-# Project One Storyboard | Text-Based Adventure Game
-
-> Complete the `TODO:` prompts using your own game idea. This file is a graded
-> Project One deliverable and later becomes a reference for Project Two.
-
 ## Theme and Storyline
 
-**Theme:**
+**Theme:**  
+Glitch Museum Escape is a surreal, digital adventure set inside a corrupted virtual museum. The player, known as the Debugger, must restore stability to the system by collecting six lost artifacts scattered across distorted rooms. Each artifact repairs a different part of the museum’s broken code.
 
-TODO: Name and briefly describe your game's theme.
-
-**Storyline:**
-
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+**Storyline:**  
+The player begins in the Boot Lobby, a safe loading zone within the Glitch Museum. From there, they explore corrupted exhibits—each holding a fragment of reality. The Debugger must gather all six stabilizer artifacts to unlock the Core Vault and confront the Glitch Warden, a rogue AI that threatens to erase the museum entirely. Entering the Core Vault without all artifacts results in deletion.
 
 ## Rooms
 
-Project One requires a minimum of eight rooms.
+- **Boot Lobby (Start Room):** No item. The safe entry point where the player begins.  
+- **Pixel Hallway:** Contains the Quantum Key. A flickering corridor of shifting pixels.  
+- **Static Theater:** Contains the Memory Shard. A looping projection room filled with broken visuals.  
+- **Echo Gallery:** Contains the Time Fragment. A mirrored hall of repeating sound waves.  
+- **Fractured Archive:** Contains the Signal Prism. A shattered vault of corrupted data.  
+- **Mirror Loop Chamber:** Contains the Patch Module. A recursive room that endlessly reflects itself.  
+- **Broken Clock Room:** Contains the Reality Anchor. A warped chamber where time runs backward.  
+- **Core Vault (Villain Room):** No item. The final chamber housing the Glitch Warden. The player must enter only after collecting all six artifacts.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+## Goal
 
-Add more rooms if your design needs them.
+The player wins by collecting all six stabilizer artifacts—Quantum Key, Memory Shard, Time Fragment, Signal Prism, Patch Module, and Reality Anchor—and entering the Core Vault to defeat the Glitch Warden. Doing so restores the system and frees the Debugger from the Glitch Museum.
 
-## Items
-
-With the minimum eight-room design, Project One requires at least six items.
-Every room except the start room and villain room must contain one item.
-
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
-
-If you add rooms beyond the minimum, add an item for every additional room
-except the start room and villain room.
-
-## Villain
-
-TODO: Identify and briefly describe the villain.
-
-## Storyboard and Map Check
-
-Before submitting, compare this storyboard with `game_map.drawio`.
-
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
-* [ ] The start room has no item.
-* [ ] The villain room has no item.
-* [ ] Every room except the start room and villain room contains one item.
-* [ ] Room, item, and villain names match my map.
-* [ ] The map allows the player to collect all required items before the
-  villain is encountered.
-
-## Project Two Handoff
-
-Keep this file after Project One. In Module Seven, use these names and design
-choices when building the final room/item dictionary and player-facing output.
